@@ -156,17 +156,7 @@ footer {
 }
 
 /* FLOATING HOME BUTTON */
-.floating-home {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #0056b3;
-  color: white;
-  padding: 12px;
-  border-radius: 50%;
-  text-decoration: none;
-  font-size: 20px;
-}
+
 
 .floating-home:hover {
   background: #003d80;
